@@ -1,0 +1,60 @@
+@charset "utf-8";
+#Banner {
+	margin-top: 2px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	color: #FF0004;
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 0px;
+	border-radius: 1em;
+	background-color: #FFFFFF;
+}
+#Nav_Bar {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 30px;
+	text-align: center;
+	color: #FFFFFF;
+	font-style: italic;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+
+}
+.Nav_Bar {
+	color: #FFFFFF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align: center;
+	margin-bottom: 0px;
+	font-style: italic;
+	font-size: 30px;
+	margin-top: 2px;
+}
+
+
+#Content {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: thick solid #000000;
+	border-radius: 1em;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	background-color: #FFFFFF;
+}
+#Footer {
+	margin-top: 0px;
+
+
+
+}
+body {
+	background-color: #94A7AD;
+
+}
+.Image {
+	float: right;
+	padding-top: 9px;
+	padding-right: 4px;
+	padding-left: 4px;
+}
